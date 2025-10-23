@@ -2,6 +2,10 @@
 
 ###
 
+🇧🇷 [Versão em português](README.md) | 🇺🇸 [English version](README_EN.md)
+
+###
+
 Check out my resume [here](https://drive.google.com/file/d/1I4dc1KjOjN74COADEcoexIUlL3CQKKEH/view?usp=sharing).
 
 The Java ecosystem is my main expertise, and I use the Spring framework to develop RESTful APIs, apply dependency injection, and follow best practices in software architecture. I have experience with relational databases, especially MySQL, working on data modeling and integration with applications efficiently.
