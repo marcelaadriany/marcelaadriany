@@ -2,11 +2,13 @@
 
 ###
 
-<p align="left">Sou Bióloga e Desenvolvedora Web Full Stack com foco em BackEnd.</p>
+<p align="left">Sou Bióloga e Desenvolvedora Web Full Stack com foco em BackEnd. </p>
+
+[Meu Currículo](https://drive.google.com/file/d/1Cwyy02lNR49-fAUJZdFB4Y5HB1-yNE0L/view?usp=sharing)
 
 ###
 
-<h2 align="left">🛠️  Linguagens e ferramentas</h2>
+<h2 align="left">Linguagens e ferramentas</h2>
 
 ###
 
@@ -32,7 +34,7 @@
 
 ###
 
-<h2 align="left">🤹🏽‍♀️ Minhas habilidades</h2>
+<h2 align="left">Minhas habilidades</h2>
 
 ###
 
@@ -40,22 +42,13 @@
 
 ###
 
-<h2 align="left">📫 Meus contatos</h2>
+<h2 align="left">Meus contatos</h2>
 
 ###
 
-<div align="left">
-  <a href="mailto:marcela.adriany@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="36" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/marcelaadriany/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="36" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/5521964029152" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="51" height="36" alt="whatsapp logo"  />
-  </a>
-</div>
-
+[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:marcela.adriany@gmail.com)&nbsp;&nbsp;
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/marcelaadriany/)&nbsp;&nbsp;
+[![WhatsApp](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg)](https://wa.me/5521964029152)
 ###
 
 <div align="center">
