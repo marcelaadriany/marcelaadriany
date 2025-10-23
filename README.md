@@ -2,7 +2,7 @@
 
 ###
 
-🇧🇷 [Versão em português](README.md) | 🇺🇸[English version](README_EN.md)
+🇧🇷 [Versão em português](README.md) | 🇺🇸 [English version](README_EN.md)
 
 ###
 
