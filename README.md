@@ -6,7 +6,7 @@
 
 ###
 
-Acesse [aqui](https://drive.google.com/file/d/1Cwyy02lNR49-fAUJZdFB4Y5HB1-yNE0L/view?usp=sharing) meu currículo.
+Acesse [aqui](https://drive.google.com/file/d/1biXo3Q6MJYsIT44ilwk04mpqwBj-LdRm/view?usp=sharing) meu currículo.
 
 Tenho como principal especialidade o ecossistema Java, utilizando o framework Spring para desenvolver APIs RESTful, aplicar injeção de dependência e seguir boas práticas de arquitetura de software. Possuo experiência com bancos de dados relacionais, especialmente MySQL, atuando na modelagem e integração com aplicações de forma eficiente.
 
